@@ -1,0 +1,32 @@
+
+
+.contenedor{
+    position: relative;
+    display: inline-block;
+}
+
+.ba1{
+    filter: brightness(50%);
+}
+
+.texto-arriba{
+    text-align: right;
+    color: white;
+    position: absolute;
+    top: 600px;
+    left: 900px; 
+}
+
+.formulario{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+
+.footer{
+    background-color: rgb(4, 70, 91);
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    width: auto;
+    height: 80px;
+}
